@@ -10,9 +10,6 @@
 <a href="-blank" target="_blank">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 </a>
-<a href="https://developer.android.com" target="_blank">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-</a>
 <br><br>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YunSeok-Choi&theme=dark&show_icons=true)
 <br><br>
