@@ -1,7 +1,7 @@
-.<br>
-.<br>
-.<br>
-.<br>
+<br>
+<br>
+<br>
+<br>
 <h2>강해지는 중<br>
 <br>
 <br><br>
